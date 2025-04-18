@@ -1,18 +1,18 @@
 fileFormatVersion: 2
-guid: 57d904e7552758746ae38c558c62f662
+guid: c75666a15cf4c2f44a0350437f6b6118
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 10
+  fontSize: 16
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Determination Mono
+  - Saturn Boing
   fallbackFontReferences: []
   customCharacters: 
-  fontRenderingMode: 0
+  fontRenderingMode: 1
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
